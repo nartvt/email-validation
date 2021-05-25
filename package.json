@@ -1,0 +1,22 @@
+{
+  "name": "email-validation",
+  "version": "0.0.1",
+  "description": "verify email format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nartvt/email-validation.git"
+  },
+  "keywords": [
+    "email-validation"
+  ],
+  "author": "nartvt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nartvt/email-validation/issues"
+  },
+  "homepage": "https://github.com/nartvt/email-validation#readme"
+}
