@@ -1,6 +1,6 @@
 {
   "name": "is-email-validation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "verify email format",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,27 @@
     "url": "git+ssh://git@github.com/nartvt/email-validation.git"
   },
   "keywords": [
-    "email-validation"
+    "isEmail",
+    "email-validation",
+    "is-email-validation",
+    "validation email javascript",
+    "validation email vanilajs",
+    "validation email without jquery",
+    "validator email javascript",
+    "validator email vanilajs",
+    "validator email without jquery",
+    "javascript", 
+    "isEmail node",
+    "email-validation node",
+    "is-email-validation node",
+    "validation email node",
+    "validator email node",
+    "check email node",
+    "veirify email node",
+    "veirify email format node",
+    "veirify email format javascript",
+    "veirify email format vanilajs",
+    "nodejs"    
   ],
   "author": "nartvt",
   "license": "ISC",
