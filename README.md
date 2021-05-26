@@ -16,4 +16,4 @@
 
     isEmail("!#@$FDS$") --> false
 
-    isEmail("abc0011@gmail.com") --> false
+    isEmail("abc0011@gmail.com") --> true

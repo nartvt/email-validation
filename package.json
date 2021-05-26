@@ -1,5 +1,5 @@
 {
-  "name": "email-valid",
+  "name": "is-email-validation",
   "version": "0.0.2",
   "description": "verify email format",
   "main": "index.js",
