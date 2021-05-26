@@ -4,7 +4,7 @@
 
     isEmail("")  --> false, empty
 
-    isEmail("123@gmail.com") --> false
+    isEmail("123@gmail.com") --> false, begin by number
 
     isEmail(undefined) --> false
 
