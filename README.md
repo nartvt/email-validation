@@ -2,9 +2,18 @@
 
     var { isEmail } = require("./index");
 
+    isEmail("")  --> false, empty
 
-    isEmail("abc123@gmail.com")  -> true
+    isEmail("123@gmail.com") --> false
 
-    isEmail("123@gmail.com")  -> false
+    isEmail(undefined) --> false
 
-    isEmail("_bca_@gmail.com")  -> false
+    isEmail(null) --> false
+
+    isEmail("123456") --> false
+
+    isEmail("asnak") --> false
+
+    isEmail("!#@$FDS$") --> false
+
+    isEmail("abc0011@gmail.com") --> false
